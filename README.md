@@ -40,6 +40,7 @@ F1 \textrm{-} Score  = 2 \times \frac{Precision \times Recall}{Precision + Recal
 $$
 
 In the above confusion matrix, the values of evaluation metrics can be seen as : 
+
 $$
 \begin{align}
 Accuracy (Ac) = \frac{TP+TN}{TP+TN+FP+FN} = \frac{1+9}{1+9+3+7} = 0.5 \\
